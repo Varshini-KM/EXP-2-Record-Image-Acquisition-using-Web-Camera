@@ -43,7 +43,7 @@ Resize the frame and rotate it using OpenCV functions, then display the processe
 ## 💻 Program
 
 ### Developed By:
-**Name:** Varshini K M N  
+**Name:** Varshini K M  
 
 ### Register No:
 212225240179
@@ -134,24 +134,28 @@ cap.release()
 ## Output
 
 ### i) Write the frame as JPG image
+<img width="293" height="235" alt="image" src="https://github.com/user-attachments/assets/ace118c9-112d-4bd3-a36a-0b0354cac2fe" />
 
 
 
 
 
 ### ii) Display the video
+<img width="365" height="272" alt="image" src="https://github.com/user-attachments/assets/e213ce79-976e-4c35-a893-aba86d819f7e" />
 
 
 
 
 
 ### iii) Display the video by resizing the window
+<img width="202" height="287" alt="image" src="https://github.com/user-attachments/assets/51fa2349-5040-4d09-8829-3ce0d8d91350" />
 
 
 
 
 
 ### iv) Rotate and display the video
+<img width="215" height="285" alt="image" src="https://github.com/user-attachments/assets/13616f98-5471-4ac0-8296-65096579b53e" />
 
 
 
